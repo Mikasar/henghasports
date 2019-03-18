@@ -1,0 +1,31 @@
+[{
+    "fMontComId": 1,
+    "fParentId": 2,
+    "fUserId": 2,
+    "fComNote": "我抢，一楼沙发位!欢迎大家来评论这条动态，谢谢。",
+    "fComTime": 1539569588000,
+    "fCreateTime": 1539569588000,
+    "montsComtUsers": [{
+      "interestId": 2,
+      "interestType": "T",
+      "interestNickName": "就叫教练吧",
+      "interestPhoto": "http://1273.23.32.1:8012/images/qq.png"
+    }],
+    "montComtCount": "1"
+  },
+  {
+    "fMontComId": 2,
+    "fParentId": 2,
+    "fUserId": 1,
+    "fComNote": "教练你好，我是你的学员null，看到教练发布的动态，感到好惊讶呀!",
+    "fComTime": 1539569691000,
+    "fCreateTime": 1539569691000,
+    "montsComtUsers": [{
+      "interestId": 1,
+      "interestType": "M",
+      "interestNickName": "就叫null吧",
+      "interestPhoto": "http://172.16.1.6:8081/imgs-touxiang/c0.png"
+    }],
+    "montComtCount": "1"
+  }
+]
